@@ -1,0 +1,15 @@
+C:\Users\maryam\desktop\tamrin3\assign\bin\Debug\net6.0\assign.exe
+C:\Users\maryam\desktop\tamrin3\assign\bin\Debug\net6.0\assign.deps.json
+C:\Users\maryam\desktop\tamrin3\assign\bin\Debug\net6.0\assign.runtimeconfig.json
+C:\Users\maryam\desktop\tamrin3\assign\bin\Debug\net6.0\assign.dll
+C:\Users\maryam\desktop\tamrin3\assign\bin\Debug\net6.0\assign.pdb
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.csproj.AssemblyReference.cache
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.AssemblyInfoInputs.cache
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.AssemblyInfo.cs
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.csproj.CoreCompileInputs.cache
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.dll
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\refint\assign.dll
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.pdb
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\assign.genruntimeconfig.cache
+C:\Users\maryam\desktop\tamrin3\assign\obj\Debug\net6.0\ref\assign.dll
